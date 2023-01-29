@@ -1,5 +1,6 @@
 # io_events
 Dead simple Garry's Mod module that tracks file changes and fire hooks on the lua side. Works on both Linux and Windows.
+[![Build](https://github.com/Be1zebub/gm_io_events/actions/workflows/c-cpp.yml/badge.svg?event=push)](https://github.com/Be1zebub/gm_io_events/actions/workflows/c-cpp.yml)
 
 ### Compiling for linux/macosx
 1) Get [premake](https://github.com/premake/premake-core/releases/download/v5.0.0-alpha14/premake-5.0.0-alpha14-linux.tar.gz) add it to your `PATH`
