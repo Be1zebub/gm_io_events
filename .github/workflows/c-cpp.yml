@@ -13,7 +13,7 @@ jobs:
       with:
         submodules: recursive
         repository: danielga/garrysmod_common
-        ref: x86-64-support-sourcesdk
+        ref: 42c3f0f4153c8b613d5567df2d2efbc73d99340a
         path: 'garrysmod_common'
     - name: Install Premake
       run: |
