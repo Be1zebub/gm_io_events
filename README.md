@@ -1,5 +1,5 @@
 # io_events
-Dead simple Garry's Mod module that tracks file changes and fire hooks on the lua side. Works on both Linux and Windows.
+Dead simple Garry's Mod module that tracks file changes and fire hooks on the lua side. Works on both Linux and Windows.  
 [![Build](https://github.com/Be1zebub/gm_io_events/actions/workflows/c-cpp.yml/badge.svg?event=push)](https://github.com/Be1zebub/gm_io_events/actions/workflows/c-cpp.yml)
 
 ### Compiling for linux/macosx
